@@ -10,7 +10,7 @@ body {
   overflow: hidden;
   overflow-y: scroll;
   background-color: #000;
-}
+ }
 body .bg-img {
   background-repeat: no-repeat;
   background-position: center;
